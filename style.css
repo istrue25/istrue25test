@@ -1,0 +1,339 @@
+.navbar {
+    background-color: black;
+}
+
+.navlogo img {
+    position: fixed;
+    top: 5px;
+}
+
+.navbtn-group {
+    position: fixed;
+    right: 100px;
+}
+
+.navbtn-group button {
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    margin-top: 10px;
+}
+
+.navbtn-group button1 {
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+}
+
+.subject {
+    position: relative;
+    top: 200px;
+    width: 700px;
+    width: 100%;
+    text-align: center;
+}
+
+.subject h1 {
+    font-size: 72px;
+    color: white;
+}
+
+.subject p {
+    font-size: 20px;
+    color: white;
+}
+
+.subbtn {
+    position: relative;
+    top: 220px;
+    margin: 5px;
+}
+
+.btn1 {
+    margin: 5px;
+}
+
+.btn2 {
+    margin: 5px;
+}
+
+.section {
+    background-image: url(http://gopr.co/wp-content/uploads/2016/06/Hannah-Montana-View-From-Home-hannah-montana-1498442-1024-768.jpg);
+    max-width: 100%;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+
+.thumbnail1 {
+    width: 100%;
+    text-align: center;
+    overflow: auto;
+    background-color: gainsboro;
+    padding-bottom: 40px;
+}
+
+.thumbnail1 h3 {
+    margin-top: 40px;
+}
+
+.thumbnail1 p {
+    width: 80%;
+    position: relative;
+    left: 10%;
+    left: 10%;
+}
+
+.thumbnail1 img {
+    position: relative;
+    top: 50px;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+.thumbnail2 {
+    text-align: center;
+    overflow: auto;
+    background-color: darkgray;
+    padding: 40px;
+}
+
+.thumbnail2 h1 {
+    position: relative;
+    margin: 20px;
+    font-size: 48px;
+    color: white;
+}
+
+.thumbnail2 img {
+    position: relative;
+    width: 80%;
+    margin: 5px;
+    background-color: darkgray;
+}
+
+.video {
+    overflow: auto;
+    position: relative;
+    background-color: gainsboro;
+}
+
+.video h1 {
+    position: relative;
+    top: 25px;
+    margin-bottom: 40px;
+    margin-right: 20px;
+    font-size: 48px;
+    width: 360px;
+}
+
+.video p {
+    position: relative;
+    top: 25px;
+    margin-bottom: 40px;
+    margin-right: 20px;
+    font-size: 17px;
+    width: 360px;
+}
+
+.video iframe {
+    position: relative;
+    left: 60px;
+    width: 80%;
+    height: 252px;
+    margin: 50px;
+}
+
+.share {
+    overflow: auto;
+    text-align: center;
+    margin: 20px;
+    font-size: 48px;
+}
+
+.sharebtn-group {
+    margin: 20px;
+}
+
+.sharebtn-group img {
+    border: 2px solid orange;
+    border-radius: 20px;
+}
+
+.sharebtn-group button {
+    border: none;
+}
+
+.section2 {
+    background-image: url(https://i.ytimg.com/vi/ko8zeaXbB1Y/maxresdefault.jpg);
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: auto;
+}
+
+.section2 h1 {
+    font-size: 48px;
+    margin-top: 50px;
+}
+
+.section2 p {
+    margin-bottom: 30px;
+}
+
+.section2 img {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.thumbnail3 {
+    width: 100%;
+    text-align: center;
+}
+
+.thumbnail3 img {
+    width: 100%;
+}
+
+.thumbnail3 p {
+    margin-bottom: 30px;
+}
+
+.thumbnail4 {
+    width: 100%;
+    text-align: center;
+    overflow: auto;
+    position: relative;
+}
+
+.thumbnail4 img {
+    width: 80%;
+}
+
+.thumbnail4 h3 {
+    font-size: 18px;
+}
+
+.thumbnail4 p {
+    margin-bottom: 30px;
+}
+
+.section3 {
+    background-image: url(https://i.ytimg.com/vi/ko8zeaXbB1Y/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    position: relative;
+    overflow: auto;
+}
+
+.section3 h1 {
+    font-size: 48px;
+    padding-top: 50px;
+}
+
+.section3 p {
+    background-color: whitesmoke;
+    padding: 40px;
+    width: 80%;
+    position: relative;
+    left: 10%;
+    margin-top: 40px;
+    font-size: 18px;
+}
+
+.section3 h4 {
+    font-size: 18px;
+    position: relative;
+    top: -40px;
+}
+
+.section3 img {
+    text-align: center;
+    width: 25%;
+    border-radius: 100px;
+    position: relative;
+    top: -40px;
+}
+
+.section3 a {
+    font-size: 14px;
+    position: relative;
+    top: -40px;
+}
+
+.section4 {
+    text-align: center;
+    position: relative;
+    overflow: auto;
+}
+
+.section4 h1 {
+    font-size: 48px;
+    padding-top: 20px;
+}
+
+.section4 p {
+    background-color: whitesmoke;
+    padding: 20px;
+    width: 80%;
+    position: relative;
+    left: 10%;
+    margin-top: 50px;
+    font-size: 18px;
+}
+
+.section4 h4 {
+    font-size: 18px;
+    position: relative;
+}
+
+.free {
+    background-color: gainsboro;
+    width: 100%;
+    overflow: auto;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.free h1 {
+    padding-top: 20px;
+    font-size: 48px;
+    text-align: center;
+}
+
+.free p {
+    padding-top: 20px;
+    position: relative;
+    left: 10%;
+    font-size: 18px;
+    width: 80%;
+    text-align: center;
+}
+
+.freebtn-group button3 {
+    position: relative;
+    top: 2px;
+}
+
+footer {
+    overflow: auto;
+    padding-left: 80px;
+    width: 100%;
+    background-color: dimgray;
+    padding-bottom: 30px;
+}
+
+.foot img {
+    width: 10%;
+}
+
+.foot p {
+    width: 80%;
+}
+
+.ulfooter {
+    position: relative;
+    top: 30px;
+}
